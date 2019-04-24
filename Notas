@@ -4,3 +4,17 @@
 
 - Description of the use's cases.
 - Design prototypes of low fidelity.
+
+//Requisitos do Sistema
+- Deve exibir todas as letras gregas com o significado delas na matemática
+- Ele tambem deve exibir todos os operadores logicos, condicionais, e aritméticos contando seus significados
+- Ser clicável na descrição para abrir um balão, a descrição poderia ter uma limitação de caracteres
+- Menu pra aumentar e diminuir o tamanho
+- Deve ter uma tabela continua
+- Menu com exibição das categorias
+- Barra de pesquisa para busca por "nome"
+
+
+//23/04 Próximos passos
+- Fazer o design de baixa fidelidade
+- Definir o design
